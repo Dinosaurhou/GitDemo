@@ -3,6 +3,4 @@ Hello Git!
 Hello Git!
 --------------
 changed 1
-
-
-
+changed 2
